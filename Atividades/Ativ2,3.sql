@@ -48,7 +48,6 @@ CREATE TABLE Editoras (
     contato VARCHAR(8)
 );
 
--- Inserções de dados
 INSERT INTO Livros VALUES
     (10277843, 'O Pelicano', 'Romance', 12, 1984, NULL, 2134000, NULL, NULL),
     (32176500, 'Salomão-D Homem...', 'Romance', 2, 2011, NULL, 6655000, '19321122213', NULL),
